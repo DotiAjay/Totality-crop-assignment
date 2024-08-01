@@ -1,0 +1,35 @@
+.item{
+    margin: 10px;
+    box-shadow: inset;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    
+}
+.book{
+    background-color: blue;
+    border-radius: 5px;
+    color: #fff;
+    border: none;
+    height: 50px;
+    margin: 10px;
+}
+.roompic{
+     height: 40%;
+     width: 50%;
+     border-radius: 20px;
+}
+.desc-Container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+.text{
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: 600;
+    margin: 10px;
+}

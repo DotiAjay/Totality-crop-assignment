@@ -1,0 +1,7 @@
+
+.roomContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: #000 solid;
+}

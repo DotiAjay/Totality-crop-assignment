@@ -1,0 +1,25 @@
+
+.header-Nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(21, 169, 174);
+    width: 90%;
+    text-decoration: none;
+
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.navItems{
+    margin: 10px;
+    color: azure;
+    text-decoration: none;
+
+}
+.button{
+    background-color: antiquewhite;
+    border-radius: 100px;
+    color: blue;
+    border: none;
+    margin-right:auto;
+}
